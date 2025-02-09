@@ -1,4 +1,4 @@
-- Hi! I'm Koray Korkmaz.I'm a freshman computer science student in Bilkent University.
+- Hi! I'm Koray Korkmaz.I'm a computer science student in Bilkent University.
 - 👀 I’m interested in Coding stuff
 - 🌱 I’m currently studying computer science in Bilkent University
 - 📫 How to reach me koraykorkmaz070707@gmail.com or koray.korkmaz@ug.bilkent.edu.tr
