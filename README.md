@@ -1,7 +1,6 @@
 - Hi! I'm Koray Korkmaz.I'm a freshman computer science student in Bilkent University.
 - 👀 I’m interested in Coding stuff
 - 🌱 I’m currently learning java in Bilkent University
-- 💞️ I’m looking to collaborate on Nothing so far
 - 📫 How to reach me koraykorkmaz070707@gmail.com
 
 <!---
